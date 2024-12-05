@@ -51,3 +51,5 @@ if __name__ == "__main__":
     res = search(txt,pat)
     for i in range(len(res)):
         print(res[i], end=" ")
+
+
