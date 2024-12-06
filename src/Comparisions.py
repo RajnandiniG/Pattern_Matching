@@ -117,4 +117,3 @@ if __name__ == "__main__":
     pattern = "aaa"
     text = "aaaaaaa"
     compare_algorithms(pattern, text)
-6
